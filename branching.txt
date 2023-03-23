@@ -1,0 +1,16 @@
+Part 1
+
+1. git add branch <NAME>
+
+2. Fast forward is when git can easily tell what commits happen when and puts them on top chronologically.
+Recursive is the algorithm that occurs when Fast forward merge wont suffice.
+
+3. git checkout <BRANCH_NAME>
+
+4. git -d <BRANCH_NAME>
+    - If a force is required use "-D" as opposed to "-d"
+
+5. Merge conflicts occur when changes have occurred in both branches in the same file and git cant decide which to choose.
+
+Part 2
+
