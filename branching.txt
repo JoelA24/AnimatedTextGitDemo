@@ -12,5 +12,4 @@ Recursive is the algorithm that occurs when Fast forward merge wont suffice.
 
 5. Merge conflicts occur when changes have occurred in both branches in the same file and git cant decide which to choose.
 
-Part 2
 
